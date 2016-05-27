@@ -1017,37 +1017,26 @@ Multitarea: Dos o más programas pueden fallar simultáneamente.
 ...aquella masa de solidificada razón de dieciséis kilómetros de longitud, a la que los hombres llamaban Multivac, el más complejo ordenador jamás construido.
 Fragmento del cuento 'El chistoso'
 Press (Ctrl)(Alt)(Del) to continue...
-PC Users
 La mejor revista de computación del mundo.
 Si debbuging es el proceso de eliminar errores, entonces la programación debe ser el proceso de ponerlos.
-PC Users
 La mejor revista de computación del mundo.
 Hay dos formas de escribir programas sin errores. Sólo la tercera funciona.
-PC Users
 La mejor revista de computación del mundo.
 No confíes en una PC que no puedas tirar por la ventana.
-Steve Wozniak
 Si los arquitectos hiciesen edificios de la misma forma en que los programadores escriben programas, el primer pájaro carpintero que pasase por aquí destruiría la civilización.
-Gerald Weimberg
 Las PCs no son inteligentes, sólo creen que lo son.
-PC Users
 La mejor revista de computación del mundo.
 S pd lr sto, usd pd btnr n ben trbjo cm prgdor d P.
-PC Users
 La mejor revista de computación del mundo.
 SHIFT TO LEFT! SHIFT TO THE RIGHT! POP UP, PUSH DOWN, BYTE, BYTE, BYTE!
 Universidad de Massachussets
 Utilizado en la toga del equipo para las olimpiadas informáticas.
 Por cada error que se le atribuye a una PC siempre se encuentran al menos dos errores humanos: el de culpar a la PC y el de confiar en ella.
-PC Users
 La mejor revista de computación del mundo.
-PC Users N§ 68.
 Todo programa hace algo perfectamente bien, aunque no sea exactamente lo que nosotros queremos que haga.
 R.S. Pressmann
-PC Users N§ 68.
 El programa es totalmente perfecto, por lo tanto la PC es que debe andar mal.
 Cualquier programador.
-PC Users N§ 68.
 El veloz murciélago hindú comia feliz cardillo y kiwi, La cigueña tocaba el saxofón detrás del palenque de paja.
 Microsoft
 Frase de ejemplo para probar los fonts de Windows. (¿De dónde la sacaron?)
@@ -1067,7 +1056,6 @@ Representante internacional de Yahoo.
 Matt Stein
 Representante internacional de Yahoo.
 Los programadores de verdad hacen 'copy con program.exe'
-PC Users
 La mejor revista de computación del mundo.
 Las computadoras de Minardi usan Windows 95.
 Esteban Tuero
@@ -4934,7 +4922,6 @@ Enseñar a quien no tiene curiosidad por aprender es como sembrar un campo sin a
 Nunca pienses que lo sabes todo. Por mucho que te valores, ten siempre el coraje de decirte a ti mismo 'Soy un ignorante'.
 Iván Pavlov
 Cuando un saltamontes concentra sus energías para saltar, no sabe donde aterrizará.
-Gerald Brenan
 Son los inocentes y no los sabios los que resuelven las cuestiones difíciles.
 Si lo poco es suficiente, lo mucho es un error.
 Atilano Magadan
@@ -6378,7 +6365,6 @@ El amor que nace repentinamente mas tarda en irse.
 Lo característico de la vida actual no son la inseguridad y la crueldad, sino el desasosiego y la pobreza.
 El miedo es una anticipación del sufrimiento.
 Los deleites duran mucho menos que su recuerdo.
-Gerald Barry
 El deseo de agradar es al espíritu lo que el adorno a la belleza.
 El amor es la única cosa de este mundo que no quiere mas comprador que a si mismo.
 Lo blando es mas fuerte que lo duro; el agua es mas fuerte que la roca, el amor es mas fuerte que la violencia.
@@ -6581,24 +6567,17 @@ La esperanza es el sueño del hombre despierto.
 Nunca es triste la verdad, lo que no tiene es remedio.
 Joan Manuel Serrat
 Ese precioso y necesario don del sentido común, que es el menos común de los sentidos.
-Rantés
 El futuro es de los que creen en la belleza de sus sueños.
-Eleanor Roosevelt
 Enuncia tu verdad de manera clara y serena y escucha a los demás, incluso al que crees torpe e ignorante ya que también ellos tienen su historia.
-Adolfo Roberto Arman
-Webmaster argentino.
 Ten cuidado con tus sueños, son las sirenas de las almas. Ellas cantan. Nos llaman. Las seguimos y jamás retornamos.
 Déjame vivir ilusionado que para lo que dura la vida, más vale engañarnos seriamente, y no andar en controversias.
 Hay que inventarse un sueño para que el infinito no nos haga llorar.
 Los sueños son las únicas mentiras que pueden dejar de serlo.
 Lo peor y más peligroso del que duerme es creer que está despierto y confundir sus sueños con la realidad.
 La verdad es más importante que los hechos.
-Frank Lloyd Wright
 El pensamiento es el corcel; la razón el jinete.
-Aurore Dupín. (George Sand)
 La única manera de conocer los límites de lo posible es aventurarse un poco más allá de ellos, hacia lo imposible.
 El que anda buscando desesperadamente la verdad corre el peligro de encontrarla. Generalmente la verdad es letal. Busca la mentira y sobrevivirás.
-Dramaturgo chileno.
 El lenguaje de la verdad es sencillo.
 El hombre que no teme a las verdades nada debe temer a las mentiras.
 Después de la verdad, nada hay tan bello como la ficción.
@@ -7573,7 +7552,6 @@ Vale más caer entre las garras de los buitres que en las manos de los aduladore
 Antístenes
 Bendito sea el hombre que no teniendo nada que decir, se abstiene de demostrárnoslo con sus palabras.
 Huye de los elogios, pero trata de merecerlos
-Fenelón
 La vergüenza de confesar el primer error hace cometer muchos otros.
 Muchas veces las palabras que tendríamos que haber dicho no se presentan ante nuestro espíritu hasta que ya es demasiado tarde.
 El que no tiene opinión propia siempre contradice la de los demás.
@@ -8018,34 +7996,26 @@ Curt Goetz
 La amabilidad es la forma más segura del desdén.
 Muchos no creen en nada, pero temen a todo.
 Según las estadísticas, existen treinta y cinco millones de leyes para hacer cumplir los diez mandamientos.
-Look
 Es fácil ser heroico y generoso en un momento determinado, lo que cuesta es ser fiel y constante.
-Massillon
 La altivez es útil, todo hombre debe ser altivo.
-Fenelón
 El amor propio es el peor de los aduladores.
 La adulación en un amigo verdadero es una cosa monstruosa.
 Nada que se consiga sin pena y sin trabajo es verdaderamente valioso.
-Addison
 Mas vale vergüenza en cara que mancilla en el corazón.
 El miedo está siempre dispuesto a ver las cosas peores de lo que son.
-Tito Livio
 Nada hay tan útil como el arrepentimiento.
 La vanidad es el amor propio al descubierto.
 Estar en ocio muy prolongado, no es reposo, es pereza.
 Es más fácil dar consejos que sufrir con fortaleza la adversidad.
 Hay un remedio para las culpas, reconocerlas.
-Grillparzer
 La necedad es la madre de todos los males.
 La avaricia lo pierde todo por quererlo todo.
 Todo llega a tiempo al que pueda aguardar.
 Lo que llamamos en otros pecado, consideramos en nosotros como experiencia.
 La adulación es una moneda falsa que tiene curso gracias solo a nuestra vanidad.
 La cortesía no cuesta nada y gana todo.
-Montagu
 La confianza en sí mismo es el primer secreto del éxito.
 Sé justo antes de ser generoso, sé humano antes de ser justo.
-Cecilia Bohl de Faber (Fernán Caballero)
 Solo se es poseedor de aquello de lo cual uno puede desprenderse; de lo contrario no se es poseedor, sino poseído.
 Las gentes virtuosas desacreditan la virtud.
 Lo importante: no hacerle la vida imposible a los demás.
